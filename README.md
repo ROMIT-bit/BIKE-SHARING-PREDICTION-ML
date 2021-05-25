@@ -9,21 +9,21 @@ NOTE: there are two dataset namely hour and day. this project is on hour dataset
 
 for this purpose i used machine leaning and deep learning models.
 
-1) machine learning : 
+## 1) machine learning : 
 
-A)DECISION TREE (WITH HYPERPARAMETERS TUNING)
+            A)DECISION TREE (WITH HYPERPARAMETERS TUNING)
 
-B)RANDOM FOREST (WITH HYPERPARAMETER TUNING)
+            B)RANDOM FOREST (WITH HYPERPARAMETER TUNING)
 
-2) deep learning :
+## 2) deep learning :
 
-A) ARTIFICIAL NEURAL NETWORK (ANN) 
-
-
+            A) ARTIFICIAL NEURAL NETWORK (ANN) 
 
 
 
 
 
-contributor: https://github.com/devashishrawat808
+
+
+## contributor: https://github.com/devashishrawat808
 
