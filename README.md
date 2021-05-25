@@ -8,6 +8,7 @@ for this purpose i used machine leaning and deep learning models.
 1) machine learning : 
 
 A)DECISION TREE (WITH HYPERPARAMETERS TUNING)
+
 B)RANDOM FOREST (WITH HYPERPARAMETER TUNING)
 
 2) deep learning :
