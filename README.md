@@ -20,4 +20,5 @@ A) ARTIFICIAL NEURAL NETWORK (ANN)
 
 
 
-contributor: 
+contributor: https://github.com/devashishrawat808
+
